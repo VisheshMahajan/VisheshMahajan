@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/ctfsX89/main.gif" align="left" width="112">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajar43&label=Profile%20views&color=0e75b6&style=flat" alt="bajar43" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Visheshmhjn" target="blank"><img src="https://img.shields.io/twitter/follow/bajrangikumar6?logo=twitter&style=for-the-badge" alt="bajrangikumar6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Visheshmhjn" target="blank"><img src="https://img.shields.io/twitter/follow/Visheshmhjn?logo=twitter&style=for-the-badge" alt="visheshmahajan" /></a> </p>
 
 - 🔭 I’m currently working on [Eclipse](https://github.com/VisheshMahajan)
 
@@ -27,8 +27,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/VisheshMahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VisheshMahan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bajrangi-kumar-aa5398158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bajrangi-kumar-aa5398158" height="30" width="40" /></a>
-<a href="https://fb.com/aar0255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aar0255" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/VisheshMahajan-aa5398158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishesh_mahajan-aa5398158" height="30" width="40" /></a>
+<a href="https://fb.com/visheshmahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aar0255" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
